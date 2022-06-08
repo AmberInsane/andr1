@@ -2,6 +2,7 @@ package pingwit.lec_3.hm.task_5pingwit2;
 
 import java.util.Arrays;
 
+//+ Код не отформатирован
 public class InvertingMassive {
     public static void main(String[] args) {
         int[] array = new int[9];
