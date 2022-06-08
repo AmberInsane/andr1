@@ -2,11 +2,12 @@ package pingwit.lec_3.hm.task_3pingwit2;
 
 import java.util.Arrays;
 
+//+
 public class ChanginOdds {
     public static void main(String[] args) {
-        int[] array = new int[10];
-        int evenNumbers = 0; // четный
-        int oddNumbers = 0; // нечетный
+        int[] array = new int[10]; 
+        int evenNumbers = 0; // четный   <- переменная не используется
+        int oddNumbers = 0; // нечетный  <- переменная не используется
 
         for (int i = 0; i < array.length; i++)
             array[i] = i + 3;
